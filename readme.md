@@ -1,6 +1,6 @@
 # The Kamizetes – Análise de Vendas
 
-![Texto Alternativo](dashboard/the kamizetes.png)
+![Texto Alternativo](dashboard/thekamizetes.png)
 
 Este projeto tem como objetivo analisar as vendas de uma empresa fictícia chamada **The Kamizetes**, especializada na venda de camisetas. O objetivo é explorar dados transacionais de vendas, entender o desempenho do negócio e gerar insights sobre as métricas de vendas, produtos e clientes.
 
